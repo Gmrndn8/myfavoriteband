@@ -1,0 +1,11 @@
+ .sidebar {
+  float: right;
+  background-color: blue;
+ }
+ .column {
+  float: left;
+  width: 400px;
+ }
+ img.intro {
+  float: right;
+ }
